@@ -28,6 +28,7 @@
         </tr>
     </thead>
     <tbody>
+    {% if ticker %}
 
         {% for item in ticker %}
 
@@ -43,6 +44,8 @@
         </tr>
 
         {% endfor %}
+
+    {% endif %}
 
     </tbody>
 </table>
