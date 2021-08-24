@@ -1,6 +1,6 @@
 # Stonks_App
 
-![Stonks Meme](stonks.jpg)
+![Stonks Meme](![stonks](https://user-images.githubusercontent.com/45057976/130694578-6dade5a8-0ec1-40e3-8e7a-46ec3b0d5684.jpg))
 
 #### Buy, Sell!
 
